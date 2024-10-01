@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Ahmed224-art/my-portfolio.git/static/css/main.3e097eb1.css",
-    "main.js": "/Ahmed224-art/my-portfolio.git/static/js/main.6b033bac.js",
-    "index.html": "/Ahmed224-art/my-portfolio.git/index.html"
+    "main.css": "/my-portfolio/static/css/main.3e097eb1.css",
+    "main.js": "/my-portfolio/static/js/main.be4ad9ad.js",
+    "index.html": "/my-portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.3e097eb1.css",
-    "static/js/main.6b033bac.js"
+    "static/js/main.be4ad9ad.js"
   ]
 }
